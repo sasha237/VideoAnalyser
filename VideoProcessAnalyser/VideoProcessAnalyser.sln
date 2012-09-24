@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoProcessAnalyser", "VideoProcessAnalyser.csproj", "{2362B453-F8B1-4B2E-A018-9AF7745F639D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapAnalyser", "..\BitmapAnalyser\BitmapAnalyser.csproj", "{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,14 @@ Global
 		{2362B453-F8B1-4B2E-A018-9AF7745F639D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2362B453-F8B1-4B2E-A018-9AF7745F639D}.Release|x86.ActiveCfg = Release|x86
 		{2362B453-F8B1-4B2E-A018-9AF7745F639D}.Release|x86.Build.0 = Release|x86
+		{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}.Debug|x86.ActiveCfg = Debug|x86
+		{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}.Debug|x86.Build.0 = Debug|x86
+		{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}.Release|x86.ActiveCfg = Release|x86
+		{86D1A2AD-3B23-4CAA-863D-81F0411C07AE}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
